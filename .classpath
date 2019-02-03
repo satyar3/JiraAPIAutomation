@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/json-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/json-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/json-schema-validator-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/json-schema-validator-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/rest-assured-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/rest-assured-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/rest-assured-common-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/rest-assured-common-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/xml-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/docs/xml-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jackson-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/json-path-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/json-schema-validator-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/rest-assured-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/rest-assured-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/scala-support-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-mock-mvc-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Rest Assured JARs/xml-path-3.1.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Back Up/Project Work/Learning Stuffs/Selenium Training By Jitendra/Self Study/Tools/Apache POI/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
